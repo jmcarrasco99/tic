@@ -1,8 +1,12 @@
 # Enrique Mejías
 
+Esto es una lista no ordenada:
+
 * Lista
 * no
 * ordenadas
+
+Esto es una lista ordenada:
 
 1. Listas
 2. sí
