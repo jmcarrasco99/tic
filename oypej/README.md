@@ -1,5 +1,0 @@
-- Venía a inscribirme en el récord Guiness.
-- ¿Qué ha hecho usted?
-- He hecho este puzzle en un año.
-- ¿Y dónde está la dificultad?
-- En la caja ponía: de 4 a 5 años.
