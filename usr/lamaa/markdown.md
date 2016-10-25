@@ -21,3 +21,15 @@ echo 'Hola, caracola'
 echo 'Tengo un tractor amarillo'
 echo 'Sale el sol por la mañana, por la mañana sale el sol...'
 ```
+
+Listas no ordenadas pero ordenadas por preferencia:
+
+* Coquinas
+* Shope
+* Zolomillo ar güisky
+* Lasanya
+* La Independencia de Catalunya
+
+Listas ordenadas:
+
+NS/NC
