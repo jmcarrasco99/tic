@@ -16,6 +16,26 @@ Esto es código en línea: `sh script.sh`. Esto es código en bloque:
 
 ```sh
 echo 'Hola, mundo'
-echo 'Este es el lenguaje "shell"'
+echo 'Este es el lenguaje Shell'
 echo 'Con el comando "echo" muestro texto por pantalla'
 ```
+
+Listas no ordenadas:
+
+* Pizza.
+* Coquinas.
+* Marguerita.
+
+Listas ordenadas:
+
+1. Jesús.
+2. Oyola.
+3. Alejandro.
+
+Esto es un enlace a [Google](http://google.com).
+
+También puedo introducir imágenes:
+
+![Logo GitHub](http://github.com/apple-touch-icon.png 'Logo GitHub')
+
+:smile:
