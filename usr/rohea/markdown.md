@@ -9,3 +9,6 @@
 ##### Cabecera 5
 
 ###### Cabecera 6
+
+Esto es un texto plano. Esto es *cursiva*, esto es **negrita**, esto es ***negrita y cursiva***.
+
