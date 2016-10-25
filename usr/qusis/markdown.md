@@ -30,3 +30,10 @@ Listas ordenadas:
 1. Jesùs.
 2. Oyola.
 3. Alejandro.
+
+
+Esto es un enlace [Google](http://google.com).
+
+Tambien puedo introcucir imàgenes:
+
+smile:
