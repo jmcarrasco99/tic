@@ -32,4 +32,15 @@ Listas no ordenadas pero ordenadas por preferencia:
 
 Listas ordenadas:
 
-NS/NC
+1. No
+2. Sé
+3. Qué
+4. Poner
+
+Esto es un enlace que [supuestamente lleva a algún lao pero no sé a donde](http://gmai.com)
+
+Puedo introducir imágenes. No quiero, pero es lo que manda la asignatura al parecer:
+
+![La cosa más guapa sureña](http://elpais.com/elpais/imagenes/2010/09/27/actualidad/1285575433_850215_0000000000_sumario_normal.jpg)
+
+:smile: :laugh:
