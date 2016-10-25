@@ -17,5 +17,5 @@ Esto es código `sh script.sh`.Esto es un código bloque:
 ```sh
 echo `Hola,mundo`
 echo  ` Este es el lenguaje Shell`
-echo `Ceon el mando "echo" muestro texto por pantalla`
+echo `Con el mando "echo" muestro texto por pantalla`
 ```
