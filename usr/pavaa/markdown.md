@@ -34,7 +34,7 @@ Esto es un enlace a [Google](http://google.com).
 
 También puedo introducir imagenes:
 
-![Logo Github](http://github.com/apple-touch-icon.png)
+![Logo Github](https://github.com/apple-touch-icon.png)
 
 Tembien *emoticonos*:
 
