@@ -22,3 +22,9 @@ Lista ordenada:
 1. Marina la masme
 2. mi snupito el mejoh
 3. quiero comer lasaña lasaña!!
+
+Esto es un enlace a [Google](http://google.es)
+
+También *emoticonos*:
+
+:smile: :smile: :smile: :smile:
