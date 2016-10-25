@@ -19,3 +19,13 @@ echo `Hola, mundo`
 echo `Este es el lenguaje Shell`
 echo `Con el comando "echo" muestro texto por pantalla´
 ´´´
+
+Listas no ordenadas:
+
+* Pizza.
+* Coquinas.
+* Marguerita.
+
+Listas ordenadas:
+
+1. 
