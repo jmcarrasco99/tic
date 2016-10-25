@@ -10,10 +10,7 @@
 
 ###### Capçelera 6
 
-####### Capçelera 7
-
-############################################# Capçelera no tincs ganas de còntar
+####### No tinc ganes de posar-me a comptar quantes cometes hi ha aquí
 
 *2323* **232323** ***232323***
 
-Lo que se dijo un día en clase *"niño, recoge el cuarto"*, me gustaría **expresar mis sentimientos**:, ***No hay ganas omá hija***
