@@ -28,3 +28,7 @@ Esto es un enlace a [Google](http://google.es)
 También *emoticonos*:
 
 :smile: :smile: :smile: :smile:
+
+Una foto de regalo:
+
+![Hora de Avenuras](http://4.bp.blogspot.com/-yV7S4m_e1rw/U_aJJoUPIPI/AAAAAAAA2GI/KS8TJVKJNb8/s1600/hora-de-aventura-latino-online-capitulos.jpg)
