@@ -18,4 +18,4 @@ Esto es código en línea: `sh script.sh`.Esto es un código en bloque.
 echo 'Hola,mundo'
 echo 'Este es el lenguaje Shell'
 echo 'Con el comando "echo" muestro texto por pantalla'
-´´´
+```
