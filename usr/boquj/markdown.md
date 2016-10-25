@@ -27,3 +27,13 @@ Listas no ordenadas:
 * Marguerita.
 
 Lista ordenadas:
+
+1. Jesús.
+2. Oyola.
+3. Alejandro.
+
+Esto es un enlace a [Google](http://google.com).
+
+También puedo introducir imágines:
+
+http://www.artetoreo.com/wp-content/uploads/2009/07/el-fandi-2.jpg
