@@ -35,5 +35,5 @@ Listas ordenadas:
 Esto es un enlace [Google](http://google.com).
 
 Tambien puedo introcucir imàgenes:
-
-smile:
+tambien *emoticonos*
+:smile:
