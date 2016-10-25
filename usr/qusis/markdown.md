@@ -34,6 +34,11 @@ Listas ordenadas:
 
 Esto es un enlace [Google](http://google.com).
 
-Tambien puedo introcucir imàgenes:
-tambien *emoticonos*
+tambien *emoticonos*:
+
 :smile:
+
+Tambien puedo introcucir imàgenes:
+
+![Logo Github] (http://github.com/aple-touch-icon.png)
+
