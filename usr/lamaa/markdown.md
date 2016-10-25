@@ -14,3 +14,10 @@
 
 *2323* **232323** ***232323***
 
+Esto no es un código en línea: `ese ashe escrípt.eseashe` Esto es código en bloque:
+
+```sh
+echo 'Hola, caracola'
+echo 'Tengo un tractor amarillo'
+echo 'Sale el sol por la mañana, por la mañana sale el sol...'
+```
