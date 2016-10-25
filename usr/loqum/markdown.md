@@ -16,6 +16,6 @@ Esto es código en línea: `sh script.sh`. Esto es código en bloque:
 
 ```sh
 echo 'Hola, mundo'
-echo 'Ahora voy a listar ficheros y carpetas:'
-ls
+echo 'Este es el lenguaje "shell"'
+echo 'Con el comando "echo" muestro texto por pantalla'
 ```
