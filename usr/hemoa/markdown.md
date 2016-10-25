@@ -32,7 +32,7 @@ echo 'Con el comando ''echo'' muestro texto por pantalla'
 Esto es un enlace a [google](http://google.com)
 
 Tambien puedo introducir imágenes
-![Logo Github](http://github.com/apple-touch-icon.png)
+![Logo Github](https://github.com/apple-touch-icon.png)
 
 También *emoticonos*:
 
