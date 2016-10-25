@@ -16,7 +16,7 @@ Esto es código `sh script.sh`.Esto es un código bloque:
 
 ```sh
 echo `Hola,mundo`
-echo  ` Este es el lenguaje Shell`
+echo `Este es el lenguaje Shell`
 echo `Con el mando "echo" muestro texto por pantalla`
 ```
 Lista no ordenadas:
@@ -24,3 +24,9 @@ Lista no ordenadas:
 * Pizza.
 * Coquinas.
 * Marguerita.
+
+Listas ordenadas:
+
+1. Jesùs.
+2. Oyola.
+3. Alejandro.
