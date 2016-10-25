@@ -16,3 +16,9 @@ Lista para llevarme a una isla desierta:
 * peine
 * mantita
 * una almohada blandita
+
+Lista ordenada:
+
+1. Marina la masme
+2. mi snupito el mejoh
+3. quiero comer lasaña lasaña!!
