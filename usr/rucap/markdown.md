@@ -10,4 +10,20 @@
 
 ###### Cabecera 6
 
-Esto es un texto plano. Esto es *cursiva*, esto es **negrita** , esto es *** negrita y cursiva ***.
+Esto es un texto plano. Esto es *cursiva*, esto es **negrita** , esto es ***negrita y cursiva***.
+
+Esto es código en linea: `sh script.sh`. Esto es código en bloque :
+
+```sh
+echo `Hola, mundo`
+echo`Este es el lenguaje Shell`
+echo`Con el comando ``echo```muestro texto por pantalla`
+
+```
+Listas no ordenadas :
+
+* Pizza.
+* Coquinas.
+* Marguerita.
+
+Listas ordenadas :
