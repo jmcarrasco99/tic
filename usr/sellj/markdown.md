@@ -17,3 +17,17 @@ Lista no ordenadas:
 * pizza
 * coquinas
 * marguerita
+
+Listas ordenadas:
+
+1. Jesús.
+2. Oyola.
+3. Alejandro.
+
+Esto es un enlace a [google]
+
+
+
+
+También *emoticonos*:
+:smile:
