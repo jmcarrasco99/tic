@@ -36,4 +36,4 @@ Esto es un enlace a [Google](http://google.com).
 
 También puedo introducir imágines:
 
-http://www.artetoreo.com/wp-content/uploads/2009/07/el-fandi-2.jpg
+![Google](http://www.artetoreo.com/wp-content/uploads/2009/07/el-fandi-2.jpg).
