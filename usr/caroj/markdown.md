@@ -25,7 +25,7 @@ Listas ordenadas:
 
 También puedo introducir imágenes:
 
-![Logo github](http://github.com/apple-touch-icon.png)
+![Logo github](https://github.com/apple-touch-icon.png)
 
 También *emoticonos*:
 
