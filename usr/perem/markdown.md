@@ -11,3 +11,8 @@ Ya te contaré, el lape me dijo *ya te contaré*, y **el cabrón no me lo ha con
 echo 'HOLIII'
 echo 'CARACOLI'
 ```
+Lista para llevarme a una isla desierta:
+
+* peine
+* mantita
+* una almohada blandita
