@@ -20,6 +20,18 @@ echo 'comando "echo" muestro texto por pantalla'
 
 Listas no ordenadas:
 
-*pizza
-*coquinas
-*margarita
+* pizza
+* coquinas
+* margarita
+
+Listas ordenadas:
+
+* Jesús
+* Oyola
+* Alejandro
+
+Esto es un enlace a [Google](http://google.com).
+
+También puedo introducir imagenes:
+
+
