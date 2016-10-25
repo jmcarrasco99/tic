@@ -23,7 +23,7 @@ Listas ordenadas:
 
 [Google](http://google.com).
 
-Tambieńpuedo instroducir imágenes:
+También puedo introducir imágenes:
 
 ![Logo github](http://github.com/apple-touch-icon.png)
 
