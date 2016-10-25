@@ -33,3 +33,11 @@ Listas ordenadas:
 3. Alejandro.
 
 Esto es un enlace a [Google](http://google.com)
+
+También puedo introducir imágenes:
+
+![Logo GitHub](http://github.com/apple-touch-icon.png)
+
+También *emoticonos*:
+
+:smile:
