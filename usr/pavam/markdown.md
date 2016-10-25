@@ -27,3 +27,7 @@ Listas no ordenadas:
 * Marguerita.
 
 Listas ordenadas:
+
+1. Jesús.
+2. Oyola.
+3. JC.
