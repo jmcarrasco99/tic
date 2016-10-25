@@ -13,3 +13,5 @@
 ####### Capçelera 7
 
 ############################################# Capçelera no tincs ganas de còntar
+
+Lo que se dijo un día en clase *"niño, recoge el cuarto"*, me gustaría **expresar mis sentimientos**:, ***No hay ganas omá hija***
