@@ -30,4 +30,14 @@ Listas ordenadas:
 
 1. Jesús.
 2. Oyola.
-3. JC.
+3. Alejandro.
+
+Esto es un enlace a [Google](http://google.com).
+
+También puedo instroducir imágenes:
+
+![Logo GitHub](http://github.com/apple-touch-icon.png)
+
+También *emoticonos*:
+
+:smile:
