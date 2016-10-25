@@ -43,4 +43,4 @@ Puedo introducir imágenes. No quiero, pero es lo que manda la asignatura al par
 
 ![La cosa más guapa sureña](http://elpais.com/elpais/imagenes/2010/09/27/actualidad/1285575433_850215_0000000000_sumario_normal.jpg)
 
-:smile: :laugh:
+:smile: :laught:
