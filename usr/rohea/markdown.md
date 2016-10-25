@@ -40,4 +40,4 @@ También puedo instroducir imágenes:
 
 También *emoticonos*:
 
-:smile:
+:smile: :laugh: :purse: :tongue: :princess:
