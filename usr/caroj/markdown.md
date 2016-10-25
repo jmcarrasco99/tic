@@ -9,3 +9,8 @@ echo 'Hola Mundo'
 echo 'Este es el lenguaje Shell'
 echo 'con el comando "echo" muestro texto por pantalla'
 ```
+Listas no ordenadas:
+
+* Pizza.
+* Coquinas.
+* Margherita.
