@@ -18,7 +18,7 @@ Esto es código en linea: `sh script.sh`. Esto es código en bloque:
 echo `Hola, mundo`
 echo `Este es el lenguaje Shell`
 echo `Con el comando "echo" muestro texto por pantalla´
-´´´
+```
 
 Listas no ordenadas:
 
@@ -28,4 +28,4 @@ Listas no ordenadas:
 
 Listas ordenadas:
 
-1. 
+1.
