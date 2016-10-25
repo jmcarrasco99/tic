@@ -14,3 +14,19 @@ Listas no ordenadas:
 * Pizza.
 * Coquinas.
 * Margherita.
+
+Listas ordenadas:
+
+1. Jesús
+2. Oyola.
+3. Borrego.
+
+[Google](http://google.com).
+
+Tambieńpuedo instroducir imágenes:
+
+![Logo github](http://github.com/apple-touch-icon.png)
+
+También *emoticonos*:
+
+:smile:
