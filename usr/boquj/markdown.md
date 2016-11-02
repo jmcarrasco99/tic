@@ -37,3 +37,16 @@ Esto es un enlace a [Google](http://google.com).
 También puedo introducir imágines:
 
 ![Google](http://www.artetoreo.com/wp-content/uploads/2009/07/el-fandi-2.jpg).
+
+
+
+:smile:
+
+Creamos una tabla:
+
+| Producto | Tipo | Precio |
+|----------|------|--------|
+| Patatas | Comidas | 1.2 E |
+| Boquerones | Comida | 0.8 E |
+| Sardinas | Comida | 1.0 E |
+
