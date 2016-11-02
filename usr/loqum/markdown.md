@@ -50,3 +50,13 @@ Creamos una tabla:
 | Boquerones | Comida | 0.8 E |
 | Sardinas | Comida | 1.0 E |
 | Cubiertos | Menaje | 2.3 E |
+
+Markdown tiene soporte para citas:
+
+> En un lugar de la Mancha, de cuyo nombre no quiero acodarme...
+
+También tiene soporte para listas de chequeo:
+
+- [ ] Comprar supermercado. 
+- [X] Visitar a la abuela.
+- [ ] Hacer las tareas de mates.
