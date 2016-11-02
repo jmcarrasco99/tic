@@ -35,7 +35,6 @@ Una foto de regalo:
 
 Creamos una tabla:
 | Producto | Tipo | Precio |
-|----------|------|--------|
 | Chocolate | blanco | 2,50E |
 | palomitas | caramelo | 2.40E|
 | pipas | peladas | 1,70E |
