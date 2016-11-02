@@ -33,6 +33,7 @@ También *emoticonos*:
 :smile:
 
 Creamos una tabla:
+
 | producto | tipo | precio |
 |----------|------|--------|
 | patatas | comida | 1.2 E |
