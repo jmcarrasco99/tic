@@ -42,7 +42,7 @@ También *emoticonos*:
 
 :smile:
 
-Creamosuna tabla:
+Creamos una tabla:
 
 | Producto | Tipo | Precio |
 |----------|------|--------|
