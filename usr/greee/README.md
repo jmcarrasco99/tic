@@ -57,9 +57,9 @@ Creamos una tabla:
 
 | cookie | lamwww  | swag |
 |--------| ------- |------|
-| tablz | words |ingles |
+| tablz | words | ingles |
 | earth  | thug  | dolla |
-| apple | lizard |  zebra|
+| apple | lizard |  zebra |
 
 Markdown tiene soporte para citas:
 
