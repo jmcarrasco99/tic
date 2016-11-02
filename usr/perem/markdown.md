@@ -32,3 +32,10 @@ También *emoticonos*:
 Una foto de regalo:
 
 ![Hora de Avenuras](http://4.bp.blogspot.com/-yV7S4m_e1rw/U_aJJoUPIPI/AAAAAAAA2GI/KS8TJVKJNb8/s1600/hora-de-aventura-latino-online-capitulos.jpg)
+
+Creamos una tabla:
+| Producto | Tipo | Precio |
+|----------|------|--------|
+|Chocolate| blanco| 2,50E|
+|palomitas| caramelo| 2.40E|
+|pipas | peladas|1,70E|
