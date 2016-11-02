@@ -39,8 +39,8 @@ tambien *emoticonos*:
 :smile:
 
 Creamos una tabla:
-| Producto | | Tipo | Precio |
-|----------|--------|--------|
+| Producto | Tipo | Precio |
+|----------|------|--------|
 | Patatas  | Comida | 1.2 E |
 | Boquerones | Comida | 0.80 E |
 | Sardinas | Comida | 1.0 E |
@@ -58,5 +58,5 @@ tambien tiene soporte para listas de chequeo:
 
 Tambien puedo introcucir imàgenes:
 
-![Logo Github] (http://github.com/aple-touch-icon.png)
+![Logo Github] (https://github.com/apple-touch-icon.png)
 
