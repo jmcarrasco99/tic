@@ -34,7 +34,7 @@ Listas ordenadas :
 
 Esto es un enlace a [Google](http://google.com).
 También puedo introducir imágenes :
-[Logo Github](http://github.com/apple-touch-icon.png)
+[Logo Github](https://github.com/apple-touch-icon.png)
 También *emoticonos*:
 :smile:
 
@@ -50,4 +50,9 @@ Creamos una tabla:
 
 Markdown tiene soporte para citas:
 
-> En un lugar de la 
+> En un lugar de la Mancha, cuyo nombre no quiero acordarme...
+
+También tiene soporte para listas de chequeo:
+-[ ] Comprar supermercado.
+-[X] Visitar a la abuela 
+-[ ] Hacer las tareas de mates.
