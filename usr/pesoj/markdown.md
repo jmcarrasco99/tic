@@ -30,3 +30,10 @@ También puedo introducir imágenes:
 También *emoticonos*:
 
 :smile:
+
+Creamos una tabla:
+
+| Producto | Tipo | Precio |
+| Macarrones | Comida | 200 pavazos |
+| Lamborghini | Coche | 5 Euritos |
+| Bayoneta M9 Stattrak/Factory New | Cuchillo /Fade | 327 pavazos pa mi |
