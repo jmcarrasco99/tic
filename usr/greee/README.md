@@ -30,18 +30,18 @@ Lista no ordenada:
 
 Lista ordenada:
 
-1. Claudia
-2. Rouse
-3. Manu
+1. orange
+2. purple
+3. marroon
 
 Listas animadas:
 
-1. Paula
-2. Ivette
-3. Alba
-    1. Ana
-    2. Alfonso
-    3. Yeico
+1. green
+2. blue
+3. Red
+    1. Black
+    2. Brown
+    3. Yellow
     
 Esto es un [enlace a una página web](https://www.google.com), también funciona usando sólo la URL: https://github.com.
 
@@ -49,12 +49,24 @@ También puedes insertar imágenes:
 
 ![Icono de GitHub](https://github.com/apple-touch-icon.png 'Icono de GitHub')
 
-[smile] [heart] [tongue] [princess]
+También ´emoticonos*:
 
-Se pueden crear tablas:
+:smile: :heart: :tongue: :princess: :dog: :tree: 
 
-| Tablek        | lamwww        | swag |
-| ------------- |:-------------:| -----:|
-| colifiyg      | right-aligned |ingles |
-| iofgyifgyg    | centered      | dolla |
-| s      tripes | lizard        |  zebra|
+Creamos una tabla:
+
+| cookie | lamwww  | swag |
+|--------| ------- |------|
+| tablz | words |ingles |
+| earth  | thug  | dolla |
+| apple | lizard |  zebra|
+
+Markdown tiene soporte para citas:
+
+> En un lugar de la Mancha, de suyo nombre no quiero acodarme...
+
+También tiene soporte para listas de chequeo:
+
+- [ ] Comprar supermercado
+- [X] Visitar a la abuela
+- [ ] Hacer las taraes de mates
