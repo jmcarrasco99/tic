@@ -34,6 +34,15 @@ Listas ordenadas :
 
 Esto es un enlace a [Google](http://google.com).
 También puedo introducir imágenes :
-![Logo Github](http://github.com/apple-touch-icon.png)
+[Logo Github](http://github.com/apple-touch-icon.png)
 También *emoticonos*:
 :smile:
+
+
+Creamos una tabla:
+| Producto | Tipo | Precio |
+|----------|------|--------|
+| Patatas  | Comida | 1.2 E |
+| Boquerones | Comida | 0.8 |
+| Sardinas | Comida | 1.0 |
+| Cubiertos | Comida | 2.3 |
