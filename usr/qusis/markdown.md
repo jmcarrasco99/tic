@@ -39,12 +39,12 @@ tambien *emoticonos*:
 :smile:
 
 Creamos una tabla:
-|Producto| | Tipo | Precio|
-|---------|-------|--------|
-|Patatas  | Comida |1.2 E |
-|Boquerones| Comida |0.80 E |
-|Sardinas | Comida | 1.0 E |
-|Cubiertos| Menaje |2.3 E |
+| Producto | | Tipo | Precio |
+|----------|--------|--------|
+| Patatas  | Comida | 1.2 E |
+| Boquerones | Comida | 0.80 E |
+| Sardinas | Comida | 1.0 E |
+| Cubiertos | Menaje | 2.3 E |
 
 Markdown tiene soporte para citas:
 > En un lugar de la Mancha, de cuyo nombre no quiero acordarme...
