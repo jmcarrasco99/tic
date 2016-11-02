@@ -31,3 +31,19 @@ Esto es un enlace a [google]
 
 También *emoticonos*:
 :smile:
+
+Creamos una tabla:
+| producto | tipo | precio |
+|----------|------|--------|
+| patatas | comida | 1.2 E |
+| boquerones | comida | 0.8 E |
+| sardinas | comida | 1.0 E |
+| cubiertos | menaje | 2.3 E |
+
+Markdown tiene soporte para citas:
+> En un lugar de la mancha, de cuyo nombre no quiero acordarme...
+**también** tiene soporte para listas de chequeo:
+
+- [ ] comprar supermercado.
+- [x] visitar a la abuela.
+- [ ] hacer las tareas de mates.
