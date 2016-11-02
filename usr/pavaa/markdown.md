@@ -38,4 +38,13 @@ También puedo introducir imagenes:
 
 Tembien *emoticonos*:
 
+creamos una tabla:
+
+| Producto | Tipo | Precio |
+|--------- | ---- | ------ |
+| Patatas  | Comida | 1.2 E |
+| Boquerones | Comida | 0.8 E|
+| Sardinas | Comida | 1.0 E |
+| Cubiertos | Menaje | 2.3 E | 
+
 :smile:
