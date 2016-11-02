@@ -14,19 +14,17 @@ Esto es un texto plano.
 
 Puedo poner código en línea, `python3 codigo.py` , y código en bloque:
 
-```python
-print('Hola mundo')
-x = 0
-for i in range(10):
-    x = x + 1
-print(x)
+```sh
+echo 'Hola, mundo'
+echo ´Este es el lenguaje Shell´
+echo ´Con el comando ¨echo¨ 
 ```
 
 Lista no ordenada:
 
-* Gel.
-* Pan.
-* Macarrones.
+* dog
+* dawg
+* diggity dawggggg
 
 Lista ordenada:
 
@@ -49,7 +47,7 @@ También puedes insertar imágenes:
 
 ![Icono de GitHub](https://github.com/apple-touch-icon.png 'Icono de GitHub')
 
-También ´emoticonos*:
+También *emoticonos*:
 
 :smile: :heart: :tongue: :princess: :dog: 
 
@@ -59,7 +57,7 @@ Creamos una tabla:
 |--------| ------- |------|
 | tablz | words | ingles |
 | earth  | thug  | dolla |
-| apple | lizard |  zebra |
+| apple | lizard |  china |
 
 Markdown tiene soporte para citas:
 
@@ -70,3 +68,4 @@ También tiene soporte para listas de chequeo:
 - [ ] Comprar supermercado
 - [X] Visitar a la abuela
 - [ ] Hacer las taraes de mates
+
