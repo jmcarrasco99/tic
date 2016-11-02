@@ -11,3 +11,6 @@
 ###### Cabecera 6
 
 Aquí pones *cursiva*, aquí pones **negrita**. 
+
+Creamos una tabla:
+
