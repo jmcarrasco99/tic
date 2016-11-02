@@ -51,7 +51,7 @@ También puedes insertar imágenes:
 
 También ´emoticonos*:
 
-:smile: :heart: :tongue: :princess: :dog: :tree: 
+:smile: :heart: :tongue: :princess: :dog: 
 
 Creamos una tabla:
 
