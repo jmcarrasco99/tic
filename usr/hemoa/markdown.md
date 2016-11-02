@@ -37,3 +37,12 @@ Tambien puedo introducir imágenes
 También *emoticonos*:
 
 :smile:
+
+Creamos una tabla:
+
+| Producto | Tipo | Precio |
+|----------|------|--------|
+| Patatas  | Comida | 1.2 E |
+| Boquerones | Comida | 0.8 E |
+| Srdinas | Comida | 1.O E |
+| Cubiertos | Menaje | 2.3 E |
