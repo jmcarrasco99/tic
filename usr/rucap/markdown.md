@@ -34,7 +34,7 @@ Listas ordenadas :
 
 Esto es un enlace a [Google](http://google.com).
 También puedo introducir imágenes :
-[Logo Github](https://github.com/apple-touch-icon.png)
+![Logo Github](https://github.com/apple-touch-icon.png)
 También *emoticonos*:
 :smile:
 
