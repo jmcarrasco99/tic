@@ -42,3 +42,12 @@ Creamos una tabla:
 | Pipas | Peladas | 0.75EUR |
 | Palomitas | Caramelo | 3.00EUR |
 
+frases 
+
+> El diablo sabe mucho más por viejo, que por ser el rey de todos nuestros males. 
+
+Cantantes fav:
+
+- [ ] ariana grande
+- [X] melendi
+- [ ] justinobiber
