@@ -49,6 +49,8 @@ También puedes insertar imágenes:
 
 ![Icono de GitHub](https://github.com/apple-touch-icon.png 'Icono de GitHub')
 
+[smile] [heart] [tongue] [princess]
+
 Se pueden crear tablas:
 
 | Tablek        | lamwww        | swag |
