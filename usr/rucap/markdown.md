@@ -44,6 +44,6 @@ Creamos una tabla:
 | Producto | Tipo | Precio |
 |----------|------|--------|
 | Patatas  | Comida | 1.2 E |
-| Boquerones | Comida | 0.8 |
-| Sardinas | Comida | 1.0 |
-| Cubiertos | Comida | 2.3 |
+| Boquerones | Comida | 0.8 E |
+| Sardinas | Comida | 1.0 E |
+| Cubiertos | Comida | 2.3 E |
