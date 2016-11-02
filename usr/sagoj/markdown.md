@@ -51,3 +51,8 @@ Creamosuna tabla:
 | Sardinas | Comida | 1.0 E |
 | Cubiertos | Menaje | 2.3 E |
 
+Markdown tiene soporte para citas:
+
+> En un lugar de la Mancha, de cuyo nombre no quiero acodarme...
+
+También 
