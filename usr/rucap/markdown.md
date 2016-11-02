@@ -47,3 +47,7 @@ Creamos una tabla:
 | Boquerones | Comida | 0.8 E |
 | Sardinas | Comida | 1.0 E |
 | Cubiertos | Comida | 2.3 E |
+
+Markdown tiene soporte para citas:
+
+> En un lugar de la 
