@@ -44,7 +44,7 @@ Creamos una tabla:
 |----------|------|--------|
 | Patatas  | Comida | 1.2 E |
 | Boquerones | Comida | 0.8 E |
-| Srdinas | Comida | 1.O E |
+| Srdinas | Comida | 1.0 E |
 | Cubiertos | Menaje | 2.3 E |
 
 Markdown tiene un soporte para citas:
