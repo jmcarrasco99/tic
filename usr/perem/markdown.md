@@ -35,7 +35,10 @@ Una foto de regalo:
 
 Creamos una tabla:
 
-| Producto | Tipo | Precio |
-| Chocolate | blanco | 2,50E |
-| palomitas | caramelo | 2.40E |
-| pipas | peladas | 1,70E |
+
+| Producto | Sección | Precio |
+|----------|---------|--------|
+| Chocolate| Blanco | 2,90EUR |
+| Pipas | Peladas | 0.75EUR |
+| Palomitas | Caramelo | 3.00EUR |
+
