@@ -53,3 +53,14 @@ Creación de una tabla vertical:
 | Borrego | Retraso | Excento |
 | Cataluña | Independencia | Miles de Euros |
 | Nachos | TIC | 3,50EUR/paq. |
+
+¿Una cita célebre de nuestros tiempos?
+
+> Eh, perdonah, ¿has traido la tarea? ¡Qué gente, Vicente! Si eres un chico aplicado, ya lo has copiado...
+
+¿Qué asignatura odias más?
+
+- [ ] Cultura Emprendedora
+- [X] Tecnologías de la Información y la Comunicación (TIC)
+- [ ] Literatura Universal
+- [ ] Cualquier clase con el Borrego
