@@ -61,6 +61,6 @@ Creación de una tabla vertical:
 ¿Qué asignatura odias más?
 
 - [ ] Cultura Emprendedora
-- [X] Tecnologías de la Información y la Comunicación (TIC)
-- [ ] Literatura Universal
-- [ ] Cualquier clase con el Borrego
+- [ ] Tecnologías de la Información y la Comunicación (TIC)
+- [X] Literatura Universal
+- [X] Cualquier clase con el Borrego
