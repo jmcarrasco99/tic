@@ -38,3 +38,13 @@ Creamos una tabla:
 | Macarrones | Comida | 200 pavazos |
 | Lamborghini | Coche | 5 Euritos |
 | Bayoneta M9 Stattrak/Factory New | Cuchillo /Fade | 327 pavazos pa mi |
+
+Markdown tiene soporte para citas:
+
+> En un lugar de Chernobil, cuya radiación no quiero acordarme...
+
+También tiene soporte para listas de chequeo:
+
+- [ ] Comprar cosas que se pueden comprar.
+- [x] Visitar lugares que se pueden visitar.
+- [ ] Hacer cosas.
