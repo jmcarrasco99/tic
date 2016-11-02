@@ -55,6 +55,6 @@ Markdown tiene soporte para citas:
 
 También tiene soporte para listas de chequeo:
 
-- [  ] Comprar supermercado.
+- [ ] Comprar supermercado.
 - [X] Visitar a la abuela.
-- [  ] Hacer las tareas de mates.
+- [ ] Hacer las tareas de mates.
