@@ -1,30 +1,30 @@
-# tic
-TIC - IES Ciudad Jardín - 2016/2017
+## Tecnologías de la Información y la Comunicación
 
-## Ejercicios
+### Ejercicios
 
 **[01](data/e01.md)**.
 
+### Evaluaciones
 
-| Apellidos        | Nombre         | e01 | e02 |
-|------------------|----------------|-----|-----|
-| Bernal Rubiano   | José Miguel    | NE  | NE  |
-| Borrego Quesada  | Juan Carlos    | NE  | NE  |
-| Cano De la Rosa  | Joaquín        | NE  | NE  |
-| Green            | Elizabeth      | NE  | NE  |
-| Hermida Moreno   | Alejandro      | NE  | NE  |
-| Ibáñez Prieto    | Guillermo      | NE  | NE  |
-| Lapeira Marín    | Alejandro      | NE  | NE  |
-| Maldonado Chacón | Jairo          | NE  | NE  |
-| Mejías Argandoña | Enrique        | NE  | NE  |
-| Navarro Navarro  | Jesús          | NE  | NE  |
-| Oyola Pérez      | Javier         | NE  | NE  |
-| Pachón Vázquez   | Marina Isabel  | NE  | NE  |
-| Pastor Vacas     | Alfonso        | NE  | NE  |
-| Pérez Reina      | Marina         | NE  | NE  |
-| Pérez Soto       | José Manuel    | NE  | NE  |
-| Rodríguez Hervás | Alba           | NE  | NE  |
-| Ruiz Cabello     | Paula          | NE  | NE  |
-| Sánchez Goñi     | Jesús          | NE  | NE  |
-| Serrano Llabrés  | Juan Antonio   | NE  | NE  |
-| Siles Quispe     | Sunem Sulamita | NE  | NE  |
+| Apellidos        | Nombre         | e01 |
+|------------------|----------------|-----|
+| Bernal Rubiano   | José Miguel    | -   |
+| Borrego Quesada  | Juan Carlos    | -   |
+| Cano De la Rosa  | Joaquín        | -   |
+| Green            | Elizabeth      | -   |
+| Hermida Moreno   | Alejandro      | -   |
+| Ibáñez Prieto    | Guillermo      | -   |
+| Lapeira Marín    | Alejandro      | -   |
+| Maldonado Chacón | Jairo          | -   |
+| Mejías Argandoña | Enrique        | -   |
+| Navarro Navarro  | Jesús          | -   |
+| Oyola Pérez      | Javier         | -   |
+| Pachón Vázquez   | Marina Isabel  | -   |
+| Pastor Vacas     | Alfonso        | -   |
+| Pérez Reina      | Marina         | -   |
+| Pérez Soto       | José Manuel    | -   |
+| Rodríguez Hervás | Alba           | -   |
+| Ruiz Cabello     | Paula          | -   |
+| Sánchez Goñi     | Jesús          | -   |
+| Serrano Llabrés  | Juan Antonio   | -   |
+| Siles Quispe     | Sunem Sulamita | -   |
