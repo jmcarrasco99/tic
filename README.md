@@ -6,7 +6,7 @@
 
 ### Evaluaciones
 
-| Apellidos        | Nombre         | e01 |
+| Apellidos        | Nombre         | E01 |
 |------------------|----------------|-----|
 | Bernal Rubiano   | José Miguel    | -   |
 | Borrego Quesada  | Juan Carlos    | -   |
