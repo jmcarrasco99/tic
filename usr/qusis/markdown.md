@@ -61,3 +61,12 @@ Tambien puedo introcucir imàgenes:
 
 ![Logo Github] (https://github.com/apple-touch-icon.png)
 
+
+
+ #### Ejercicio 1
+ ## Código Python
+ En Markdowm puedes poner código de cualquierlenguaje em una misma linea y en bloque:
+ 
+ import random
+ numero,intento = random,randint (1,10),0
+ while numero 
